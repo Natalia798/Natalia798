@@ -15,13 +15,13 @@ A web app designed to generate personalized meal plans based on menstrual cycle 
 - **Repository**: [GitHub Repository](https://github.com/Natalia798/ovella)  
 - **Technologies**: HTML5, CSS3, JavaScript, JSON, Netlify  
 
-### 2. [News App](https://github.com/Natalia798/news-app)  
+### 2. [News App](https://github.com/Natalia798/news-app-np)  
 A React-based app that displays news categories, paginates articles, and allows users to save favorites using localStorage.  
 - **Live Demo**: [News App](https://news-app-np.netlify.app)  
 - **Repository**: [GitHub Repository](https://github.com/Natalia798/news-app-np)  
 - **Technologies**: React, Context API, CSS Modules, localStorage  
 
-### 3. [Weather Forecast App](https://github.com/Natalia798/weather-forecast-app)  
+### 3. [Weather Forecast App](https://github.com/Natalia798/weather-forecast-app-np)  
 An interactive app that displays current weather and 5-day forecasts, with data persistence using localStorage.  
 - **Live Demo**: [Weather Forecast App](https://weather-forecast-app-np.netlify.app)  
 - **Repository**: [GitHub Repository](https://github.com/Natalia798/weather-forecast-app-np)  

@@ -12,19 +12,23 @@ I am a motivated professional transitioning from sales and management to fronten
 ### 1. [Ovella](https://github.com/Natalia798/ovella)  
 A web app designed to generate personalized meal plans based on menstrual cycle phases. Includes fasting methods, blood sugar control tips, and recipes fetched from a JSON file.  
 - **Live Demo**: [Ovella App](https://ovella.netlify.app)  
+- **Repository**: [GitHub Repository](https://github.com/Natalia798/ovella)  
 - **Technologies**: HTML5, CSS3, JavaScript, JSON, Netlify  
 
 ### 2. [News App](https://github.com/Natalia798/news-app)  
 A React-based app that displays news categories, paginates articles, and allows users to save favorites using localStorage.  
 - **Live Demo**: [News App](https://news-app-np.netlify.app)  
+- **Repository**: [GitHub Repository](https://github.com/Natalia798/news-app-np)  
 - **Technologies**: React, Context API, CSS Modules, localStorage  
 
 ### 3. [Weather Forecast App](https://github.com/Natalia798/weather-forecast-app)  
 An interactive app that displays current weather and 5-day forecasts, with data persistence using localStorage.  
 - **Live Demo**: [Weather Forecast App](https://weather-forecast-app-np.netlify.app)  
+- **Repository**: [GitHub Repository](https://github.com/Natalia798/weather-forecast-app)  
 - **Technologies**: HTML5, CSS3, JavaScript, Weather API  
 
 ### 4. [ITSchool Clone](https://github.com/Natalia798/website-clone-np)  
 A basic HTML and CSS clone of the ITSchool website, created as part of a web development course assignment.  
 - **Live Demo**: [ITSchool Clone](https://website-clone-np.netlify.app)  
+- **Repository**: [GitHub Repository](https://github.com/Natalia798/website-clone-np)  
 - **Technologies**: HTML5, CSS3  

@@ -24,7 +24,7 @@ A React-based app that displays news categories, paginates articles, and allows 
 ### 3. [Weather Forecast App](https://github.com/Natalia798/weather-forecast-app)  
 An interactive app that displays current weather and 5-day forecasts, with data persistence using localStorage.  
 - **Live Demo**: [Weather Forecast App](https://weather-forecast-app-np.netlify.app)  
-- **Repository**: [GitHub Repository](https://github.com/Natalia798/weather-forecast-app)  
+- **Repository**: [GitHub Repository](https://github.com/Natalia798/weather-forecast-app-np)  
 - **Technologies**: HTML5, CSS3, JavaScript, Weather API  
 
 ### 4. [ITSchool Clone](https://github.com/Natalia798/website-clone-np)  

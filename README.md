@@ -11,7 +11,7 @@ I am a motivated professional transitioning from sales and management to fronten
 
 ### 1. [Movie Rating System](https://github.com/Natalia798/movie-rating-system)  
 A React-based application where users can browse, search, and filter movies/TV shows from **TMDB API**, add them to **favorites/watchlist**, rate them, and leave reviews. The app also provides personalized recommendations and a **recently viewed** section.  
-- **Live Demo**: [Movie Rating System](https://movie-rating-system.netlify.app)  
+- **Live Demo**: [Movie Rating System](https://movie-rating-system.netlify.app/)
 - **Repository**: [GitHub Repository](https://github.com/Natalia798/movie-rating-system)  
 - **Technologies**: React, React Router, Context API, TMDB API, localStorage, Netlify  
 
